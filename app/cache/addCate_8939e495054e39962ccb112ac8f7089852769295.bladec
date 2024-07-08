@@ -1,0 +1,4 @@
+<form action="addCategory" method="post" >
+ <div class=""><input type="text" name="name_category"></div>
+ <button type="submit" name="submit">Thêm</button>
+</form>
